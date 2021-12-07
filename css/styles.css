@@ -1,0 +1,159 @@
+h1{
+  line-height: 1.5;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 3.5rem;}
+h2{
+margin:3% 3% 2%;
+  padding: 5% 15% 4%;
+font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+.bold-fee{
+  font-weight: bold;
+  font-size: 2.4rem;
+}
+.heading1{
+  font-weight: bold;
+  font-size: 3rem;
+  color: white;
+}
+.btn-cus{
+  margin: 5% 3% 0% 3%;
+}
+.body-footer{
+  text-align: center;
+  padding: 5%;
+}
+.btn-cus{
+  margin: 5% 3% 0% 3%;
+}
+.body-footer{
+  text-align: center;
+  padding: 5%;
+}
+.container-fluid{
+  padding: 3% 15% 3%;
+
+}
+.card-body{
+  text-align: center;
+}
+.card-header{
+  text-align: center;
+}
+.row{
+  padding: 1% 12% 3%;
+}
+.company-logo{
+width: 15%;
+  padding: 20px 20px 50px;
+}
+
+.color-icons{
+  color:#cf8172;
+  margin-bottom: 5px;
+}
+.color-icons:hover{
+  color: #ff4c68;
+}
+
+.dog-profile-pic{
+width: 10%;
+border-radius: 100%;
+margin:0px 20px 40px;
+padding-bottom: 20px;
+}
+.dfg{
+padding-bottom: 120px;
+}
+.rotate{
+width: 300px;
+  transform: rotate(25deg);
+position: absolute;
+}
+.img-padd{
+  margin-right: 50px;
+}
+#title{
+  background-color: #ff4c68;
+}
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 5% 10% 5%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.last-seg{
+  font-size: 2.2rem;
+  padding: 2% 10% 2%;
+  margin:2% 10% 0%;
+}
+#testimonials{
+  background-color: #cf8172;
+  color: #fff;
+  text-align: center;
+  font-weight: bolder;
+
+}
+#features{
+padding: 40px 0px 40px;
+  background-color: #fff;
+position: relative;
+}
+#footer{
+  text-align:center;
+
+}
+.copyright{
+  font-weight: lighter;
+  color: #B2B1B9;
+  font-family: 'Ubuntu', sans-serif;
+  padding-bottom: 2%;
+}
+.media-space
+{
+padding: 7% 1% 0% ;
+}
+#press{
+    background-color: #cf8172;
+  text-align:center;
+}
+#pricing{
+  padding: 100px;
+}
+.ssd{
+  align-items: center;
+  text-align: center;
+  padding: 3% 2% 3%;
+}
+.navbar{
+margin-left: 0;
+padding: 0 0 10px;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+font-family: 'Ubuntu', sans-serif;
+
+}
+@media (max-width:1000px ) {
+  #title{
+    text-align: center;
+  }
+  .rotate{
+    transform: rotate(0);
+    position: static;
+padding-top: 30px
+  }
+}
